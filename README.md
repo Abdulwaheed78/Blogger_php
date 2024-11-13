@@ -1,5 +1,5 @@
-# YourBlogs-Corephp-WebApplication
-YourBlog is a web application created for posting and reading blogs. the technologies are used to make yourblog web appication are given below:  For Frontend i used   Html, Css For Customization, Javascript and Css Framework Boostrap.  For Backend and scripting language I used  core php. I used mysql For database
+# Blogger
+Blogger is a web application created for posting and reading blogs. the technologies are used to make yourblog web appication are given below:  For Frontend i used   Html, Css For Customization, Javascript and Css Framework Boostrap.  For Backend and scripting language I used  core php. I used mysql For database
 Features of YourBlog Application:
  1.  I created admin panel to login and post Blogs, from admin panel you can add new blogs, add images in blogs,you have administration 
      power you can delete images and blogs from website, comments section is also there to see comments on blogs, you can add muenu and     
